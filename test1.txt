@@ -1,1 +1,2 @@
 This is the first entry in test1.txt
+Second entry on master.
